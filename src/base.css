@@ -397,7 +397,7 @@ div[class^="channelTextArea-"] {
 	transition: 250ms ease;
 	margin-bottom: 24px;
 	margin-top: 12px;
-	border-radius: 5px;
+	border-radius: 1px;
 }
 
 div[id^="chat-messages-"]+div:not([id]):last-child {
